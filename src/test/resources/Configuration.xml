@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<browser>CHROME</browser>
+	<email>belatrix-test@outlook.com</email>
+	<password>dalevalor333</password>
+	<receptor>belatrix-test@outlook.com</receptor>
+	<source-folder>C:\Users\rgioia\workspace\CursoAutomationII\target\site\cucumber-pretty</source-folder>
+	<output-zip-file>Folder.zip</output-zip-file>
+</configuration>
